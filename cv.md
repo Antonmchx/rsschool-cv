@@ -31,7 +31,7 @@ I am a graphic designer, and i am also interested in learning code. My goal is t
 </head>
 <body>
     <h3 style="color: seagreen">Hello World!</h3>
-    <p style="background-color: seagreen">See you later!</p>
+    <p style="background-color: seagreen">See you later sometimes!</p>
 </body>
 </html>
 
@@ -46,3 +46,5 @@ and some of my works on [behance](https://www.behance.net/antondubrovin)
 ## English
 
 My english level is upper intermediate.
+
+
